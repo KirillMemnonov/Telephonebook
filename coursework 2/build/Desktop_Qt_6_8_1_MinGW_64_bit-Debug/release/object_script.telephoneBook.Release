@@ -1,0 +1,10 @@
+release/addcontactdialog.o
+release/contact.o
+release/databasestorage.o
+release/filestorage.o
+release/main.o
+release/app.o
+release/phonebook.o
+release/validators.o
+release/moc_addcontactdialog.o
+release/moc_app.o
