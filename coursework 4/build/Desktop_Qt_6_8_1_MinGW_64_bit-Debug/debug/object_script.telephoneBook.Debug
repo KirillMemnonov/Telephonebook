@@ -1,0 +1,10 @@
+debug/addcontactdialog.o
+debug/contact.o
+debug/databasestorage.o
+debug/filestorage.o
+debug/main.o
+debug/app.o
+debug/phonebook.o
+debug/validators.o
+debug/moc_addcontactdialog.o
+debug/moc_app.o
